@@ -48,7 +48,18 @@ public class operator {
         System.out.println(HotelRating);
         
         // increment operators 
+        int a = 20;
+        System.out.println(a++); // isma kya ho rha hai kii phlea toh value of a will print then increase 
+        System.out.println(a); // isma joh value print hona ka baad increase hui hai woh show hoti hai 
+        int b = 20;
+        System.out.println(++b); // isma phlea increase hui fir print hui 
         
+        // Decrement Operators
+        int c = 30;
+        System.out.println(c--); //isma kya ho rha hai kii phlea toh value of (c) will print then decrease 
+        System.out.println(c);   // isma joh value print hona ka baad decrease hui hai woh show hoti hai 
+        int d = 30;
+        System.out.println(--d); // isma phlea decrease hui fir print hui 
             
     }
     
